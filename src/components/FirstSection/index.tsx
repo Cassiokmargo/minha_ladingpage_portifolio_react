@@ -1,4 +1,3 @@
-import Holofote from "../Holofote";
 import SocialMedia from "../SocialMedia";
 import SetaParaBaixoIcon from "../VIcon";
 
@@ -7,7 +6,6 @@ import styles from "./FirstSection.module.scss";
 const FirstSection = () => {
   return (
     <section className={styles.firstSection}>
-      {/* <Holofote /> */}
       <div className={styles["container_titulo"]}>
         <h1>Cássio</h1>
         <h1 className={styles["typewriter"]}>Camargo</h1>
