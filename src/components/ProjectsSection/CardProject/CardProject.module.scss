@@ -1,0 +1,102 @@
+.project_container_card {
+  display: flex;
+  flex-direction: column;
+  width: 394px;
+  height: 450px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-family: var(--font-inter);
+  background: var(--bg-linear-gradiente);
+  border-top: 2px solid #3a3a3a;
+  border-left: 2px solid #3a3a3a;
+  border-right: 2px solid #1b1b1b;
+  border-bottom: 2px solid #1b1b1b;
+
+  box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+
+  border-radius: 41px;
+}
+
+.project_container_card_img {
+  width: 100%;
+  height: 50%;
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 41px;
+    object-fit: cover;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+.project_container_card_info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+
+  h3 {
+    font-size: 20px;
+  }
+  p {
+    width: 90%;
+    font-size: 14px;
+  }
+
+  span {
+    display: flex;
+    width: fit-content;
+    justify-content: space-around;
+    border-radius: 40px;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 8px 12px;
+    background: var(--bg-linear-gradiente);
+    border-top: 2px solid #3a3a3a;
+    border-left: 2px solid #3a3a3a;
+    border-right: 2px solid #1b1b1b;
+    border-bottom: 2px solid #1b1b1b;
+
+    box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+  }
+}
+
+.project_item_container_tags {
+  display: flex;
+  gap: 1rem;
+  cursor: default;
+}
+
+.project_item_container_links {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (max-width: 430px) {
+  .project_container_card {
+    width: 100%;
+    max-width: 394px;
+    margin: 0 auto 20px auto;
+  }
+
+  .project_container_card_info {
+    h3 {
+      font-size: 18px;
+    }
+
+    p {
+      font-size: 13px;
+      width: 85%;
+    }
+  }
+}

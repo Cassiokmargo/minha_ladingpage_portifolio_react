@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "src": [
+      "src/assets/imagens/cat.jpg",
+      "src/assets/imagens/guaxi.jpeg",
+      "src/assets/imagens/guaxipi.jpeg"
+    ],
+    "titulo": "Projeto Lorem Ipsum",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, atis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "links": ["https://www.github.com", "https://www.google.com"]
+  },
+  {
+    "id": 2,
+    "src": [
+      "src/assets/imagens/guaxipi.jpeg",
+      "src/assets/imagens/cat.jpg",
+      "src/assets/imagens/guaxi.jpeg"
+    ],
+    "titulo": "Portifólio Zanetti",
+    "descricao": "Este projeto foi desenvolvido com HTML, CSS e JavaScript, com o objetivo de ajudar a divulgar o trabalho de um artista local.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "links": ["https://www.github.com", "https://www.google.com"]
+  }
+]

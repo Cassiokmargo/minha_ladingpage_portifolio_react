@@ -1,0 +1,52 @@
+.barraNeon {
+    width: 100%;
+    height: 4px;
+    background: var(--laranja);
+}
+
+
+.barraNeon {
+    position: relative;
+  
+  }
+  
+  .barraNeon .box {
+    height: 4px;
+    position: relative;
+    background: #fff;
+  }
+  
+  .barraNeon .box::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    /* background: red; */
+  }
+  
+  .barraNeon .box::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    /* background: red; */
+    filter: blur(5px);
+  }
+  
+  .barraNeon .box::before,
+  .barraNeon .box::after {
+    background: linear-gradient(270deg, #EE9A47 0%, #FF4F81 30%, #9D4EDD 60%, #00F5FF 100%) no-repeat;
+    background-size: 300% 300%;
+    animation: gradient_animation 8s ease-in-out alternate infinite;
+
+  }
+  
+  
+  @keyframes gradient_animation {
+    from{
+      background-position: 0% 50%;
+  
+    }
+  
+    to {
+      background-position: 100% 50%;
+    }
+  }

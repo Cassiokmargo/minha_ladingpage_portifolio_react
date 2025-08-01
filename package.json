@@ -1,0 +1,50 @@
+{
+  "name": "portifolio-react-vite-yarn",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Portfólio pessoal desenvolvido com React, TypeScript e Vite",
+  "author": "Cássio Camargo",
+  "email": "cassio.dev.camargo@gmail.com",
+  "homepage": "https://github.com/seu-usuario/portifolio-react-vite-yarn#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/portifolio-react-vite-yarn.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "portfolio",
+    "frontend",
+    "developer"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "motion": "^12.23.12",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sass": "^1.89.2",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@types/swiper": "^6.0.0",
+    "@vitejs/plugin-react": "^4.6.0",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.35.1",
+    "vite": "^7.0.4"
+  }
+}

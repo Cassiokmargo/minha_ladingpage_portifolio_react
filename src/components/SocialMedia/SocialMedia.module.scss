@@ -1,0 +1,20 @@
+.social_media_container {
+    display: flex;
+    gap: 16px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.social_media_container img:hover {
+    filter: invert(40%) sepia(100%) saturate(710%) hue-rotate(358deg) brightness(100%) contrast(100%);
+}
+
+@media (max-width: 768px) {
+    .social_media_container {
+        width: 100%;        
+        justify-content: center;
+        align-items: center;
+    }
+}

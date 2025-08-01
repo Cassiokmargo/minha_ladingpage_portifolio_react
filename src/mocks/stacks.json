@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "src": "src/assets/stacks_icons/html5.svg",
+    "descricao": "HTML5",
+    "alt": "Icone HTML5"
+  },
+  {
+    "id": 2,
+    "src": "src/assets/stacks_icons/css3.svg",
+    "descricao": "CSS3",
+    "alt": "Icone CSS3"
+  },
+  {
+    "id": 3,
+    "src": "src/assets/stacks_icons/javascript.svg",
+    "descricao": "JavaScript",
+    "alt": "Icone JavaScript"
+  },
+  {
+    "id": 4,
+    "src": "src/assets/stacks_icons/react.svg",
+    "descricao": "React",
+    "alt": "Icone React"
+  },
+  {
+    "id": 5,
+    "src": "src/assets/stacks_icons/node-js.svg",
+    "descricao": "Node.js",
+    "alt": "Icone Node.js"
+  },
+  {
+    "id": 6,
+    "src": "src/assets/stacks_icons/typescript.svg",
+    "descricao": "TypeScript",
+    "alt": "Icone TypeScript"
+  },
+  {
+    "id": 7,
+    "src": "src/assets/stacks_icons/git.svg",
+    "descricao": "Git",
+    "alt": "Icone Git"
+  },
+  {
+    "id": 8,
+    "src": "src/assets/stacks_icons/vite.svg",
+    "descricao": "Vite",
+    "alt": "Icone Vite"
+  },
+  {
+    "id": 9,
+    "src": "src/assets/stacks_icons/docker.svg",
+    "descricao": "Docker",
+    "alt": "Icone Docker"
+  },
+  {
+    "id": 10,
+    "src": "src/assets/stacks_icons/mongodb.svg",
+    "descricao": "MongoDB",
+    "alt": "Icone MongoDB"
+  },
+  {
+    "id": 11,
+    "src": "src/assets/stacks_icons/sass.svg",
+    "descricao": "Sass",
+    "alt": "Icone Sass"
+  },
+  {
+    "id": 12,
+    "src": "src/assets/stacks_icons/bootstrap.svg",
+    "descricao": "Bootstrap",
+    "alt": "Icone Bootstrap"
+  },
+  {
+    "id": 13,
+    "src": "src/assets/stacks_icons/mysql.svg",
+    "descricao": "MySQL",
+    "alt": "Icone MySQL"
+  },
+  {
+    "id": 14,
+    "src": "src/assets/stacks_icons/angular.svg",
+    "descricao": "Angular",
+    "alt": "Icone Angular"
+  }
+]

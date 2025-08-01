@@ -1,0 +1,30 @@
+.container_stacks_icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 45%;
+    margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .container_stacks_icons {
+    width: 90%;
+  }
+  
+}
+
+@media (max-width: 950px) {
+  
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 430px) {
+}
+
+@media (max-width: 375px) {
+}
