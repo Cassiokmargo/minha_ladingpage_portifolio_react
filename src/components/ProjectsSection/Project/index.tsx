@@ -28,14 +28,14 @@ const Project = ({ src, titulo, descricao, tags, links }: ProjectProps) => {
               <ButtonLink
                 links={[links[0]]}
                 descricao="Github"
-                src="src/assets/icons/github2.svg"
+                src="/assets/icons/github2.svg"
                 alt="Icone do github"
               />
               {links[1] && (
                 <ButtonLink
                   links={[links[1]]}
                   descricao="Acessar site"
-                  src="src/assets/icons/site.svg"
+                  src="/assets/icons/site.svg"
                   alt="Icone do site"
                 />
               )}
