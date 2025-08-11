@@ -31,7 +31,6 @@ const Project = ({ src, titulo, descricao, tags, links }: ProjectProps) => {
                 src="/assets/icons/github2.svg"
                 alt="Icone do github"
                 target="_blank"
-                rel="noopener noreferrer"
               />
               {links[1] && (
                 <ButtonLink
@@ -40,7 +39,6 @@ const Project = ({ src, titulo, descricao, tags, links }: ProjectProps) => {
                   src="/assets/icons/site.svg"
                   alt="Icone do site"
                   target="_blank"
-                  rel="noopener noreferrer"
                 />
               )}
             </div>
