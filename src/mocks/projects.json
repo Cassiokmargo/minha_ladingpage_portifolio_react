@@ -2,25 +2,75 @@
   {
     "id": 1,
     "src": [
-      "/assets/imagens/cat.jpg",
-      "/assets/imagens/guaxi.jpeg",
-      "/assets/imagens/guaxipi.jpeg"
-    ],
-    "titulo": "Projeto Lorem Ipsum",
-    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, atis et quasi architecto beatae vitae dicta sunt explicabo.",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "links": ["https://www.github.com", "https://www.google.com"]
-  },
-  {
-    "id": 2,
-    "src": [
-      "/assets/imagens/guaxipi.jpeg",
-      "/assets/imagens/cat.jpg",
-      "/assets/imagens/guaxi.jpeg"
+      "/assets/imagens/projetos/zanetti/cap1.png",
+      "/assets/imagens/projetos/zanetti/cap2.png",
+      "/assets/imagens/projetos/zanetti/cap3.png",
+      "/assets/imagens/projetos/zanetti/cap4.png",
+      "/assets/imagens/projetos/zanetti/cap5.png"
     ],
     "titulo": "Portifólio Zanetti",
     "descricao": "Este projeto foi desenvolvido com HTML, CSS e JavaScript, com o objetivo de ajudar a divulgar o trabalho de um artista local.",
     "tags": ["HTML", "CSS", "JavaScript"],
-    "links": ["https://www.github.com", "https://www.google.com"]
+    "links": [
+      "https://github.com/Cassiokmargo/portifolio-larissa-zane",
+      "https://portifolio-larissa-zane.vercel.app/index_pt_br.html"
+    ]
+  },
+  {
+    "id": 2,
+    "src": [
+      "/assets/imagens/projetos/barbearia/cap1.png",
+      "/assets/imagens/projetos/barbearia/cap2.png",
+      "/assets/imagens/projetos/barbearia/cap3.png",
+      "/assets/imagens/projetos/barbearia/cap4.png"
+    ],
+    "titulo": "Projeto Barbearia",
+    "descricao": "Projeto tem como objetivo criar uma landing page para uma barbearia, com o objetivo de divulgar o serviço e atrair novos clientes.",
+    "tags": ["HTML", "Sass", "Typescript", "React", "Vite", "Yarn"],
+    "links": ["https://github.com/Cassiokmargo/barber-shop-react-typescript", "https://barber-shop-ten-murex.vercel.app"]
+  },
+  {
+    "id": 3,
+    "src": [
+      "/assets/imagens/projetos/marketing_digi/cap1.png",
+      "/assets/imagens/projetos/marketing_digi/cap2.png",
+      "/assets/imagens/projetos/marketing_digi/cap3.png",
+      "/assets/imagens/projetos/marketing_digi/cap4.png",
+      "/assets/imagens/projetos/marketing_digi/cap5.png",
+      "/assets/imagens/projetos/marketing_digi/cap6.png",
+      "/assets/imagens/projetos/marketing_digi/cap7.png",
+      "/assets/imagens/projetos/marketing_digi/cap8.png"
+    ],
+    "titulo": "Finance",
+    "descricao": "O projeto Finance foi desenvolvido com o objetivo de praticar os conhecimentos em typescript, React e fazer uma landingpage com foco em marketing digital",
+    "tags": ["HTML", "CSS", "Typescript", "SwiperJS", "React"],
+    "links": ["https://github.com/Cassiokmargo/landing-page-cursos-react-vite", "https://landing-page-cursos-react-vite.vercel.app"]
+  },
+  {
+    "id": 4,
+    "src": [
+      "/assets/imagens/projetos/loja_meteora/cap1.png",
+      "/assets/imagens/projetos/loja_meteora/cap2.png",
+      "/assets/imagens/projetos/loja_meteora/cap3.png",
+      "/assets/imagens/projetos/loja_meteora/cap4.png"
+    ],
+    "titulo": "Loja Meteora",
+    "descricao": "O projeto Meteora é uma loja de roupas e acessórios, com o objetivo de conclusão da formação de desenvolvedor com HTML, CSS e JavaScript",
+    "tags": ["HTML", "CSS", "JavaScript", "SwiperJS"],
+    "links": ["https://github.com/Cassiokmargo/alura-challenge-2023-loja-meteora", "https://alura-challenge-2023-loja-meteora.vercel.app/index.html"]
+  },
+  {
+    "id": 5,
+    "src": [
+      "/assets/imagens/projetos/calmaria_spa/cap1.png",
+      "/assets/imagens/projetos/calmaria_spa/cap2.png",
+      "/assets/imagens/projetos/calmaria_spa/cap3.png",
+      "/assets/imagens/projetos/calmaria_spa/cap4.png",
+      "/assets/imagens/projetos/calmaria_spa/cap5.png"
+    ],
+    "titulo": "Calmaria SPA",
+    "descricao": "Projeto Calmaria SPA é uma empresa fictícia foi desenvolvido com a ideia principal do curso é evoluir ainda mais os conhecimentos em Acessibilidade Web com foco em CSS.",
+    "tags": ["HTML", "CSS", "Acessibilidade Web"],
+    "links": ["https://github.com/Cassiokmargo/projeto-acessibilidade-site-calmaria-spa", "https://projeto-acessibilidade-site-calmaria-spa.vercel.app"]
   }
 ]

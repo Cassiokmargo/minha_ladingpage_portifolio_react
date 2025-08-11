@@ -85,11 +85,15 @@
 @media (max-width: 430px) {
   .project_container_card {
     width: 100%;
-    max-width: 394px;
+    max-width: 100%;
     margin: 0 auto 20px auto;
   }
 
   .project_container_card_info {
+    width: 100%;
+    height: 100%;
+    padding: 0 8px 0 8px;
+    gap: .4rem;
     h3 {
       font-size: 18px;
     }
@@ -98,5 +102,11 @@
       font-size: 13px;
       width: 85%;
     }
+  }
+
+  .project_item_container_tags {
+    width: auto;
+    flex-wrap: wrap;
+    gap: .3rem;
   }
 }

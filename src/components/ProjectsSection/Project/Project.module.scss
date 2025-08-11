@@ -7,14 +7,17 @@
   height: 100%;
   font-family: var(--font-inter);
   padding-bottom: 50px;
+  
 }
 
 .project_item_container_info {
   display: flex;
+  
   flex-direction: column;
   width: 100%;
   height: 100%;
   gap: 1rem;
+
 
   h3 {
     font-size: 46px;
@@ -99,7 +102,12 @@
   .project_item_container_img {
     width: 100%;
   }
+
+  .project_item_container_tags {
+    flex-wrap: wrap;
+  }
 }
 
 @media (max-width: 375px) {
+  
 }
