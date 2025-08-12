@@ -205,6 +205,10 @@
     padding: 60px 15px;
     min-height: 100vh;
 
+    .container_titulo {
+      width: 300px;
+    }
+
     .container_titulo h1 {
       font-size: 70px;
     }
@@ -214,13 +218,13 @@
     }
 
     .container_contato {
-      bottom: 70px;
+      bottom: 100px;
       padding: 0;
       width: 90%;
     }
 
     .container_descricao {
-      margin-bottom: 100px;
+      margin-bottom: 90px;
       padding: 0 15px;
 
       p {
@@ -230,8 +234,8 @@
     }
 
     .container_seta {
-      left: 50%;
-      bottom: 20px;
+      left: 48%;
+      bottom: 50px;
     }
   }
 }
@@ -244,8 +248,11 @@
       font-size: 60px;
     }
 
+    .container_descricao {
+      margin-bottom: 124px;
+    }
     .container_contato {
-      bottom: 60px;
+      bottom: 100px;
     }
 
     .container_descricao {
