@@ -105,6 +105,7 @@
   }
 
   .project_item_container_tags {
+    justify-content: center;
     width: auto;
     flex-wrap: wrap;
     gap: .3rem;
@@ -117,8 +118,6 @@
   }
 
   .project_item_container_tags {
-    justify-content: center;
-
     span {
       padding: 4px 8px;
     }
