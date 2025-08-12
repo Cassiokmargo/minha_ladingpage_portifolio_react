@@ -18,8 +18,8 @@
   border-radius: 41px;
   background: var(--bg-linear-gradiente);
   font-family: var(--font-inter);
-  padding-top: 73px;
-  padding-bottom: 73px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   position: relative;
   z-index: 1;
 
@@ -101,13 +101,13 @@
 
 @media (max-width: 430px) {
   .stacks_section {
-    padding: 30px 12px;
+    padding: 70px 12px;
     min-height: auto;
   }
 
   .stacks_container_titulo {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 
     h2 {
       font-size: 36px;
