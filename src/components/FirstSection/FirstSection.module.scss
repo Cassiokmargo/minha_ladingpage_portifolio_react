@@ -137,8 +137,9 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    padding: 104px 0px;
+    padding: 104px 20px;
     position: relative;
+    min-height: 100vh;
 
     h1 {
       width: 510px;
@@ -154,12 +155,14 @@
       text-align: center;
       width: 100%;
       z-index: 5;
+      padding: 0;
     }
 
     .container_descricao {
       width: 100%;
       text-align: center;
       margin-bottom: 80px;
+      padding: 0 20px;
     }
 
     .container_seta div {
@@ -177,18 +180,80 @@
     font-size: 24px;
   }
 
-  .firstSection{
-    .container_contato {
-      bottom: 100px;
-      
-    }
-      .container_seta {
-        left: 48%;
-        bottom: 50px;
-      }
-  }
+  .firstSection {
+    padding: 80px 20px;
 
+    .container_contato {
+      bottom: 80px;
+      padding: 0;
+    }
+
+    .container_descricao {
+      margin-bottom: 120px;
+      padding: 0 20px;
+    }
+
+    .container_seta {
+      left: 50%;
+      bottom: 30px;
+    }
+  }
+}
+
+@media (max-width: 395px) {
+  .firstSection {
+    padding: 60px 15px;
+    min-height: 100vh;
+
+    .container_titulo h1 {
+      font-size: 70px;
+    }
+
+    .container_titulo h3 {
+      font-size: 20px;
+    }
+
+    .container_contato {
+      bottom: 70px;
+      padding: 0;
+      width: 90%;
+    }
+
+    .container_descricao {
+      margin-bottom: 100px;
+      padding: 0 15px;
+
+      p {
+        font-size: 14px;
+        line-height: 140%;
+      }
+    }
+
+    .container_seta {
+      left: 50%;
+      bottom: 20px;
+    }
+  }
 }
 
 @media (max-width: 375px) {
+  .firstSection {
+    padding: 50px 10px;
+
+    .container_titulo h1 {
+      font-size: 60px;
+    }
+
+    .container_contato {
+      bottom: 60px;
+    }
+
+    .container_descricao {
+      margin-bottom: 90px;
+
+      p {
+        font-size: 13px;
+      }
+    }
+  }
 }

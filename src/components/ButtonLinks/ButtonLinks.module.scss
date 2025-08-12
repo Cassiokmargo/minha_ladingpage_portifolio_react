@@ -61,3 +61,15 @@
     filter: brightness(100%) invert(1);
   }
 }
+
+@media (max-width: 375px) {
+  .button_links_container {
+    width: fit-content;
+
+    img {
+      width: 20px;
+    }
+  }
+
+
+}
