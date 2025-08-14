@@ -33,7 +33,7 @@
   
   .barraNeon .box::before,
   .barraNeon .box::after {
-    background: linear-gradient(270deg, #EE9A47 0%, #FF4F81 30%, #9D4EDD 60%, #00F5FF 100%) no-repeat;
+    background: linear-gradient(270deg, #EE9A47 0%, #FF4F81 100%) no-repeat;
     background-size: 300% 300%;
     animation: gradient_animation 8s ease-in-out alternate infinite;
 

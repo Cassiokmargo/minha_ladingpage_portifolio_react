@@ -8,7 +8,7 @@
 }
 
 .stacks_container_titulo {
-  width: 100%;
+  width: auto;
   height: 100%;
   text-align: center;
   border-top: 2px solid #3a3a3a;
@@ -23,9 +23,9 @@
   position: relative;
   z-index: 1;
 
-  box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
-  -webkit-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
-  -moz-box-shadow: 6px 6px 10px 2px rgba(0, 0, 0, 0.6);
+  box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.5);
 
   h2 {
     font-size: 64px;
@@ -108,6 +108,7 @@
   .stacks_container_titulo {
     padding-top: 60px;
     padding-bottom: 60px;
+    border-radius: 12px;
 
     h2 {
       font-size: 36px;
@@ -118,6 +119,7 @@
       margin-bottom: 40px;
     }
   }
+
 }
 
 @media (max-width: 395px) {

@@ -65,7 +65,12 @@
 @media (max-width: 1024px) {
   .project_item_container {
     display: block;
-  }
+    padding-left: 75px;
+    padding-right: 75px;
+    
+  } 
+
+  
 
   .project_item_container_info {
     align-items: center;
@@ -78,9 +83,11 @@
 }
 
 @media (max-width: 950px) {
+  
 }
 
 @media (max-width: 768px) {
+
 }
 
 @media (max-width: 430px) {

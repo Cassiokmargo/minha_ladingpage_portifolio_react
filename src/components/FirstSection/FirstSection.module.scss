@@ -34,7 +34,7 @@
     display: flex;
     align-items: end;
     gap: 20px;
-    padding-top: 400px;
+    padding-top: 310px;
   }
 
   .container_seta {
@@ -44,16 +44,23 @@
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 0;
+    bottom: 20px;
     z-index: 10;
   }
 
   .container_descricao {
     display: flex;
     width: 44%;
-    text-align: end;
+    text-align: start;
     align-items: flex-end;
+    margin-bottom: 60px;
+  
+  }& .container_descricao p {
+    padding-left: 6px;
+    flex-wrap: nowrap;
+    border-left: 3px solid var(--laranja);
   }
+
 }
 
 .typewriter {
@@ -62,7 +69,7 @@
   border-right: 4px solid var(--laranja);
   width: 0;
   animation: typewriterSequence 16s steps(7) infinite,
-    blink 0.7s step-end infinite;
+    blink 0.5s step-end infinite;
 }
 
 @keyframes typewriterSequence {
@@ -93,10 +100,15 @@
 }
 
 @media (max-width: 1280px) {
+  .firstSection   
+  .container_descricao {
+    margin-bottom: 0px;
+  }
   .container_seta div {
     position: absolute;
     bottom: -80px;
   }
+
 }
 
 @media (max-width: 1024px) {
@@ -115,8 +127,12 @@
       font-size: 18px;
     }
 
+    & .container_titulo {
+      width: 500px;
+    }
+
     .container_contato {
-      width: 280px;
+      width: 300px;
       flex-wrap: wrap;
     }
   }
@@ -130,6 +146,16 @@
   .container_descricao {
     max-width: 314px;
   }
+  .firstSection
+  .container_contato {    
+    padding-top: 328px;
+
+  } 
+  
+  .container_seta div {
+    bottom: 0;
+  }
+  
 }
 
 @media (max-width: 768px) {
@@ -161,17 +187,24 @@
     .container_descricao {
       width: 100%;
       text-align: center;
+      margin-top: 40px;
       margin-bottom: 80px;
       padding: 0 20px;
+      border-left: none;
+    } & .container_descricao p {
+      border: none;
+      padding: 0;
     }
 
     .container_seta div {
       bottom: 10px;
+      left: -9px;
     }
   }
 }
 
 @media (max-width: 430px) {
+  
   .container_titulo h1 {
     width: auto;
     font-size: 80px;
@@ -182,6 +215,10 @@
 
   .firstSection {
     padding: 80px 20px;
+
+    .container_titulo {
+      width: 346px;
+    }
 
     .container_contato {
       bottom: 80px;
@@ -194,7 +231,7 @@
     }
 
     .container_seta {
-      left: 48%;
+      left: 50%;
       bottom: 30px;
     }
   }
@@ -234,7 +271,6 @@
     }
 
     .container_seta {
-      left: 48%;
       bottom: 50px;
     }
   }
