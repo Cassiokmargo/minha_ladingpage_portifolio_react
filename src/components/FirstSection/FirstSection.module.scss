@@ -68,7 +68,7 @@
   white-space: nowrap;
   border-right: 4px solid var(--laranja);
   width: 0;
-  animation: typewriterSequence 16s steps(7) infinite,
+  animation: typewriterSequence 6s steps(7) infinite,
     blink 0.5s step-end infinite;
 }
 
