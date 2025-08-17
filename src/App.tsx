@@ -10,9 +10,11 @@ function App() {
     <>
       <ProgressScrollBar />
       <Header />
-      <FirstSection />
-      <StacksSection />
-      <ProjectsSection />
+      <main>
+        <FirstSection />
+        <StacksSection />
+        <ProjectsSection />
+      </main>
       <Footer />
     </>
   );

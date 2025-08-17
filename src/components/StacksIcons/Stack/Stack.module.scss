@@ -3,7 +3,7 @@
 
   img {
     width: 64px;
-    height: auto;
+    height: 64px;
   }
 
   p {
@@ -28,6 +28,7 @@
 @media (max-width: 430px) {
   .stack_item img {
     width: 40px;
+    height: 40px;
   }
   .stack_item p {
     font-size: 16px;

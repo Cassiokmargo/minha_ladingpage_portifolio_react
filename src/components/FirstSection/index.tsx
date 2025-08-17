@@ -9,7 +9,7 @@ const FirstSection = () => {
       <div className={styles["container_titulo"]}>
         <h1>Cássio</h1>
         <h1 className={styles["typewriter"]}>Camargo</h1>
-        <h3>Front-end, Web Developer</h3>
+        <h2>Front-end, Web Developer</h2>
         <div className={styles["container_contato"]}>
           <p>cassio.dev.camargo@gmail.com</p>
           <SocialMedia />

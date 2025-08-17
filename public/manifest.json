@@ -1,0 +1,20 @@
+{
+  "name": "Cássio Camargo - Desenvolvedor Front-end",
+  "short_name": "Cássio Portfolio",
+  "description": "Portfólio de Cássio Camargo, desenvolvedor front-end especializado em React, TypeScript e JavaScript",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "lang": "pt-BR"
+}
