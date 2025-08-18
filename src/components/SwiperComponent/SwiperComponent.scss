@@ -62,6 +62,17 @@
   }  
 }
 
+@media (min-width: 1024px) {
+  .swiper_container {
+    max-width: 800px;
+    margin-left: 20px;
+  }
+
+  .swiper-slide {
+    max-width: 360px;
+  }
+}
+
 @media (max-width: 950px) {
   
 }

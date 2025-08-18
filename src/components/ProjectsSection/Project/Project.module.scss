@@ -82,6 +82,17 @@
   }
 }
 
+@media (min-width: 1024px) {
+  .project_item_container_info {
+    width: 100%;
+    padding: 0
+  }
+
+  .project_item_container_tags {
+    flex-wrap: wrap;
+  }
+}
+
 @media (max-width: 950px) {
   
 }
