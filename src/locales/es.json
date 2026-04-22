@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "title": "Desarrollador Front-End enfocado en rendimiento, experiencia y calidad.",
+    "description": "Soy Cássio C. Camargo, especialista en React.js, TypeScript y Tailwind CSS. Desarrollo interfaces modernas, responsivas y accesibles, aplicando las mejores prácticas y estándares del mercado para crear soluciones digitales eficientes, escalables y orientadas a resultados."
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Cómo puedo ayudar",
+    "description": "Transformo tu idea en una aplicación bien construida, con código organizado, alto rendimiento y una interfaz que realmente funciona en el día a día.",
+    "contactButton": "Hablemos",
+    "items": [
+      {
+        "title": "Landing Pages y Sitios Web",
+        "description": "Interfaces responsivas a partir de diseños (layouts) con una estructura consistente."
+      },
+      {
+        "title": "Integración de APIs",
+        "description": "Integración con APIs REST y manejo de datos para aplicaciones dinámicas."
+      },
+      {
+        "title": "Interfaces de Sistemas",
+        "description": "Pantallas para dashboards y sistemas, con componentización y organización."
+      },
+      {
+        "title": "Rendimiento y SEO",
+        "description": "Optimización de carga y ajustes para un mejor desempeño e indexación."
+      }
+    ]
+  },
+  "process": {
+    "title": "Proceso y Trabajo",
+    "subtitle": "Del briefing a la entrega",
+    "steps": [
+      {
+        "title": "Descubrimiento",
+        "description": "Comprensión del proyecto, objetivos y alineación de alcance y plazos."
+      },
+      {
+        "title": "Planificación",
+        "description": "Definición de arquitectura, tecnologías y organización del código."
+      },
+      {
+        "title": "Desarrollo",
+        "description": "Desarrollo con enfoque en el rendimiento y fidelidad al diseño."
+      },
+      {
+        "title": "Entrega y QA",
+        "description": "Pruebas, revisión final, despliegue, documentación y soporte post-entrega."
+      }
+    ]
+  },
+  "tech": {
+    "title": "Tech Stack",
+    "subtitle": "Mis principales tecnologías"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+      {
+        "title": "Portafolio Zanetti",
+        "description": "Este proyecto fue desarrollado para fortalecer la presencia digital de un artista local a través de una interfaz moderna, intuitiva y responsiva. Construido con HTML, CSS y JavaScript, el portafolio presenta una navegación fluida y una experiencia visual cuidadosamente elaborada, valorando el contenido artístico y facilitando el acceso a la información. La aplicación sigue las mejores prácticas de desarrollo front-end, con enfoque en rendimiento, organización de código y usabilidad.",
+        "button": "Ver sitio web"
+      },
+      {
+        "title": "Proyecto Barbería",
+        "description": "Landing page desarrollada para una barbería, con enfoque en la conversión y el fortalecimiento de la presencia digital. La aplicación presenta un diseño moderno, responsivo y optimizado para diferentes dispositivos. Construida con React, TypeScript y Sass, la solución sigue buenas prácticas de componentización, organización de código y rendimiento, garantizando escalabilidad y facilidad de mantenimiento.",
+        "button": "Ver sitio web"
+      },
+      {
+        "title": "Finance",
+        "description": "Aplicación web enfocada al segmento financiero, desarrollada con énfasis en la presentación estratégica y la experiencia del usuario. El proyecto entrega una interfaz moderna con navegación dinámica y elementos visuales que refuerzan la credibilidad. Utilizando React, TypeScript y SwiperJS, la aplicación combina interactividad y rendimiento para garantizar eficiencia y consistencia visual.",
+        "button": "Ver sitio web"
+      },
+      {
+        "title": "Tienda Meteora",
+        "description": "E-commerce de ropa y accesorios desarrollado con enfoque en la usabilidad, organización de contenido y experiencia de navegación. La aplicación presenta una interfaz intuitiva con diseño responsivo. Construido con HTML, CSS, JavaScript y SwiperJS, el proyecto prioriza el rendimiento y la claridad en la presentación de la información para una jornada de usuario eficiente.",
+        "button": "Ver sitio web"
+      },
+      {
+        "title": "Calmaria SPA",
+        "description": "Calmaria SPA es una aplicación web desarrollada para representar la presencia digital de una empresa de bienestar, enfocándose en proporcionar una experiencia accesible e intuitiva. El proyecto presenta una interfaz moderna y estructurada, priorizando la claridad visual y la inclusión digital. Con énfasis en accesibilidad y estilizado avanzado en CSS, garantiza compatibilidad y usabilidad en diferentes contextos de uso.",
+        "button": "Ver sitio web"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Trabajemos Juntos",
+    "subtitle": "Cuéntame sobre tu proyecto y te responderé con los próximos pasos.",
+    "description": "¿Tienes un proyecto en mente? Envíame un mensaje; respondo rápido."
+  },
+  "form": {
+    "name": "Nombre",
+    "ariaLabel": "Nombre",
+    "placeholder": "Escribe tu nombre",
+    "error": "Por favor, introduce tu nombre.",
+    "required": "El nombre es obligatorio.",
+    "subject": "Asunto",
+    "ariaLabelSubject": "Asunto",
+    "subjectPlaceholder": "¿Cuál es el asunto de tu mensaje?",
+    "errorSubject": "Por favor, el asunto es obligatorio.",
+    "requiredSubject": "El asunto es obligatorio.",
+    "email": "Correo electrónico",
+    "ariaLabelEmail": "Correo electrónico",
+    "emailPlaceholder": "Escribe tu mejor correo",
+    "errorEmail": "Por favor, el correo es obligatorio.",
+    "requiredEmail": "El correo es obligatorio.",
+    "message": "Mensaje",
+    "ariaLabelMessage": "Mensaje",
+    "messagePlaceholder": "Cuéntame más sobre tu proyecto, dudas o lo que necesites :)",
+    "errorMessage": "Por favor, el campo de mensaje es obligatorio.",
+    "requiredMessage": "El campo de mensaje es obligatorio.",
+    "button": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "validation": {
+      "name_min": "Por favor, introduce tu nombre.",
+      "email_invalid": "Por favor, usa un correo válido.",
+      "subject_min": "Por favor, introduce el asunto.",
+      "message_min": "Por favor, introduce el mensaje."
+    }
+  },
+  "footer": {
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados."
+  }
+}

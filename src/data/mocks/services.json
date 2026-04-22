@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/icons/pc-and-smartphone.svg",
+    "title": "Landing Pages e Sites",
+    "description": "Interfaces responsivas a partir de layout, com estrutura consistente."
+  },
+  {
+    "id": 2,
+    "src": "/assets/icons/data-base.svg",
+    "title": "Consumo de API",
+    "description": "Integração com APIs REST e tratamento de dados para aplicações dinâmicas."
+  },
+  {
+    "id": 3,
+    "src": "/assets/icons/dashboard.svg",
+    "title": "Interfaces de Sistemas",
+    "description": "Telas para dashboards e sistemas, com componentização e organização."
+  },
+  {
+    "id": 4,
+    "src": "/assets/icons/web.svg",
+    "title": "Performance e SEO",
+    "description": "Otimização de carregamento e ajustes para melhor desempenho e indexação."
+  } 
+]

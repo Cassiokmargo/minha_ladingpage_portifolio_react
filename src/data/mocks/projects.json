@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "src": [
+      "/assets/imagens/projetos/zanetti/cap1.webp",
+      "/assets/imagens/projetos/zanetti/cap2.webp",
+      "/assets/imagens/projetos/zanetti/cap3.webp",
+      "/assets/imagens/projetos/zanetti/cap4.webp",
+      "/assets/imagens/projetos/zanetti/cap5.webp"
+    ],
+    "titulo": "Portifólio Zanetti",
+    "descricao": "Este projeto foi desenvolvido para fortalecer a presença digital de um artista local, por meio de uma interface moderna, intuitiva e responsiva. Construído com HTML, CSS e JavaScript, o portfólio apresenta uma navegação fluida e uma experiência visual cuidadosamente elaborada, valorizando o conteúdo artístico e facilitando o acesso às informações. \n\nA aplicação segue boas práticas de desenvolvimento front-end, com foco em performance, organização de código e usabilidade, garantindo uma entrega consistente e alinhada às expectativas de projetos profissionais.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "links": [
+      "https://github.com/Cassiokmargo/portifolio-larissa-zane",
+      "https://portifolio-larissa-zane.vercel.app/index_pt_br.html",
+      ""
+    ]
+  },
+  {
+    "id": 2,
+    "src": [
+      "/assets/imagens/projetos/barbearia/cap1.webp",
+      "/assets/imagens/projetos/barbearia/cap2.webp",
+      "/assets/imagens/projetos/barbearia/cap3.webp",
+      "/assets/imagens/projetos/barbearia/cap4.webp"
+    ],
+    "titulo": "Projeto Barbearia",
+    "descricao": "Landing page desenvolvida para uma barbearia, com foco em conversão e fortalecimento da presença digital. A aplicação apresenta um design moderno, responsivo e otimizado para diferentes dispositivos, proporcionando uma navegação fluida e intuitiva. \n\nConstruída com React, TypeScript e Sass, a solução segue boas práticas de componentização, organização de código e performance, garantindo escalabilidade e facilidade de manutenção. O projeto foi pensado para destacar serviços, atrair novos clientes e potencializar resultados.",
+    "tags": ["HTML", "Sass", "Typescript", "React", "Vite", "Yarn"],
+    "links": ["https://github.com/Cassiokmargo/barber-shop-react-typescript", "https://barber-shop-ten-murex.vercel.app"]
+  },
+  {
+    "id": 3,
+    "src": [
+      "/assets/imagens/projetos/marketing_digi/cap1.webp",
+      "/assets/imagens/projetos/marketing_digi/cap2.webp",
+      "/assets/imagens/projetos/marketing_digi/cap3.webp",
+      "/assets/imagens/projetos/marketing_digi/cap4.webp",
+      "/assets/imagens/projetos/marketing_digi/cap5.webp",
+      "/assets/imagens/projetos/marketing_digi/cap6.webp",
+      "/assets/imagens/projetos/marketing_digi/cap7.webp",
+      "/assets/imagens/projetos/marketing_digi/cap8.webp"
+    ],
+    "titulo": "Finance",
+    "descricao": "Aplicação web voltada ao segmento financeiro, desenvolvida com foco em apresentação estratégica e experiência do usuário. O projeto entrega uma interface moderna, com navegação dinâmica e elementos visuais que reforçam credibilidade e clareza na comunicação. \n\nUtilizando React, TypeScript e SwiperJS, a aplicação alia interatividade e performance, aplicando boas práticas de desenvolvimento front-end para garantir eficiência, responsividade e consistência visual em diferentes dispositivos.",
+    "tags": ["HTML", "CSS", "Typescript", "SwiperJS", "React"],
+    "links": ["https://github.com/Cassiokmargo/landing-page-cursos-react-vite", "https://landing-page-cursos-react-vite.vercel.app"]
+  },
+  {
+    "id": 4,
+    "src": [
+      "/assets/imagens/projetos/loja_meteora/cap1.webp",
+      "/assets/imagens/projetos/loja_meteora/cap2.webp",
+      "/assets/imagens/projetos/loja_meteora/cap3.webp",
+      "/assets/imagens/projetos/loja_meteora/cap4.webp"
+    ],
+    "titulo": "Loja Meteora",
+    "descricao": "E-commerce de roupas e acessórios desenvolvido com foco em usabilidade, organização de conteúdo e experiência de navegação. A aplicação apresenta uma interface intuitiva, com layout responsivo e recursos que facilitam a visualização e exploração dos produtos. \n\nConstruído com HTML, CSS, JavaScript e SwiperJS, o projeto prioriza performance, clareza na apresentação das informações e uma experiência fluida, proporcionando ao usuário uma jornada eficiente e agradável dentro da plataforma.",
+    "tags": ["HTML", "CSS", "JavaScript", "SwiperJS"],
+    "links": ["https://github.com/Cassiokmargo/alura-challenge-2023-loja-meteora", "https://alura-challenge-2023-loja-meteora.vercel.app/index.html"]
+  },
+  {
+    "id": 5,
+    "src": [
+      "/assets/imagens/projetos/calmaria_spa/cap1.webp",
+      "/assets/imagens/projetos/calmaria_spa/cap2.webp",
+      "/assets/imagens/projetos/calmaria_spa/cap3.webp",
+      "/assets/imagens/projetos/calmaria_spa/cap4.webp",
+      "/assets/imagens/projetos/calmaria_spa/cap5.webp"
+    ],
+    "titulo": "Calmaria SPA",
+    "descricao": "O Calmaria SPA é uma aplicação web desenvolvida para representar a presença digital de uma empresa do segmento de bem-estar, com foco em proporcionar uma experiência acessível, agradável e intuitiva ao usuário. O projeto apresenta uma interface moderna e cuidadosamente estruturada, priorizando clareza visual, navegação fluida e inclusão digital. \n\nCom forte ênfase em acessibilidade e estilização avançada em CSS, a aplicação segue boas práticas de desenvolvimento front-end, garantindo compatibilidade, responsividade e usabilidade em diferentes dispositivos e contextos de uso. O resultado é uma solução que alia estética, performance e acessibilidade de forma consistente.",
+    "tags": ["HTML", "CSS", "Acessibilidade Web"],
+    "links": ["https://github.com/Cassiokmargo/projeto-acessibilidade-site-calmaria-spa", "https://projeto-acessibilidade-site-calmaria-spa.vercel.app"]
+  }
+]

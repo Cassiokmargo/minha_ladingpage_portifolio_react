@@ -1,0 +1,53 @@
+.processWorkSection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-inter);
+  padding: 114px 110px;
+  
+}
+
+.processWorkTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  h2 {
+    font-size: 64px;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 24px;
+  }
+}
+
+.processContainer {
+    display: flex;
+}
+
+@media (min-width: 375px) and (max-width: 768px) {
+  .processWorkSection {
+    padding: 114px 20px;
+  }
+
+  .processWorkTitle,
+  .processContainer {
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+      text-align: center;
+    }
+  }
+
+  .buttonContact {
+    width: fit-content;
+    margin-bottom: 1.4rem;
+    img {
+      width: 20px;
+    }
+  }
+}

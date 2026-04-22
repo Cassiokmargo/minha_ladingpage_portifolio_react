@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "title": "Front-End Developer focused on performance, experience, and quality.",
+    "description": "I'm Cássio C. Camargo, a specialist in React.js, TypeScript, and Tailwind CSS. I develop modern, responsive, and accessible interfaces, applying best practices and industry standards to create efficient, scalable, and results-oriented digital solutions."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "How I can help",
+    "description": "I transform your idea into a well-built application with organized code, high performance, and an interface that truly works in everyday use.",
+    "contactButton": "Get in Touch",
+    "items": [
+      {
+        "title": "Landing Pages and Websites",
+        "description": "Responsive interfaces built from layouts with a consistent structure."
+      },
+      {
+        "title": "API Integration",
+        "description": "Integration with REST APIs and data handling for dynamic applications."
+      },
+      {
+        "title": "System Interfaces",
+        "description": "Dashboards and system screens with componentization and organization."
+      },
+      {
+        "title": "Performance and SEO",
+        "description": "Loading optimization and adjustments for better performance and indexing."
+      }
+    ]
+  },
+  "process": {
+    "title": "Process and Workflow",
+    "subtitle": "From briefing to delivery",
+    "steps": [
+      {
+        "title": "Discovery",
+        "description": "Understanding the project, goals, and aligning on scope and deadlines."
+      },
+      {
+        "title": "Planning",
+        "description": "Defining architecture, technologies, and code organization."
+      },
+      {
+        "title": "Development",
+        "description": "Development with a focus on performance and design fidelity."
+      },
+      {
+        "title": "Delivery & QA",
+        "description": "Testing, final review, deployment, documentation, and post-delivery support."
+      }
+    ]
+  },
+  "tech": {
+    "title": "Tech Stack",
+    "subtitle": "My main technologies"
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Zanetti Portfolio",
+        "description": "This project was developed to strengthen the digital presence of a local artist through a modern, intuitive, and responsive interface. Built with HTML, CSS, and JavaScript, the portfolio features fluid navigation and a carefully crafted visual experience, highlighting artistic content while facilitating information access. The application follows front-end development best practices, focusing on performance, code organization, and usability, ensuring a consistent delivery aligned with professional standards.",
+        "button": "Visit website"
+      },
+      {
+        "title": "Barbershop Project",
+        "description": "A landing page developed for a barbershop, focusing on conversion and strengthening digital presence. The application features a modern, responsive design optimized for various devices, providing fluid and intuitive navigation. Built with React, TypeScript, and Sass, the solution follows best practices in componentization, code organization, and performance, ensuring scalability and ease of maintenance. The project was designed to highlight services, attract new customers, and boost results.",
+        "button": "Visit website"
+      },
+      {
+        "title": "Finance",
+        "description": "A web application for the financial sector, developed with a focus on strategic presentation and user experience. The project delivers a modern interface with dynamic navigation and visual elements that reinforce credibility and clear communication. Using React, TypeScript, and SwiperJS, the application combines interactivity and performance, applying front-end development best practices to ensure efficiency, responsiveness, and visual consistency across different devices.",
+        "button": "Visit website"
+      },
+      {
+        "title": "Meteora Store",
+        "description": "A clothing and accessories e-commerce developed with a focus on usability, content organization, and browsing experience. The application features an intuitive interface with a responsive layout and features that facilitate product exploration. Built with HTML, CSS, JavaScript, and SwiperJS, the project prioritizes performance, clarity in information presentation, and a fluid experience, providing the user with an efficient and pleasant journey within the platform.",
+        "button": "Visit website"
+      },
+      {
+        "title": "Calmaria SPA",
+        "description": "Calmaria SPA is a web application developed to represent the digital presence of a wellness company, focusing on providing an accessible, pleasant, and intuitive user experience. The project features a modern and carefully structured interface, prioritizing visual clarity, fluid navigation, and digital inclusion. With a strong emphasis on accessibility and advanced CSS styling, the application follows front-end development best practices, ensuring compatibility, responsiveness, and usability across different devices and contexts. The result is a solution that consistently combines aesthetics, performance, and accessibility.",
+        "button": "Visit website"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Tell me about your project and I'll get back to you with the next steps.",
+    "description": "Have a project in mind? Send me a message — I respond quickly."
+  },
+  "form": {
+    "name": "Name",
+    "ariaLabel": "Name",
+    "placeholder": "Enter your name",
+    "error": "Please enter your name.",
+    "required": "Name is required.",
+    "subject": "Subject",
+    "ariaLabelSubject": "Subject",
+    "subjectPlaceholder": "What is the subject of your message?",
+    "errorSubject": "Please, a subject is required.",
+    "requiredSubject": "Subject is required.",
+    "email": "Email",
+    "ariaLabelEmail": "Email",
+    "emailPlaceholder": "Enter your best email",
+    "errorEmail": "Please, an email is required.",
+    "requiredEmail": "Email is required.",
+    "message": "Message",
+    "ariaLabelMessage": "Message",
+    "messagePlaceholder": "Tell me more about your project, questions, or anything you need :)",
+    "errorMessage": "Please, the message field is required.",
+    "requiredMessage": "The message field is required.",
+    "button": "Send Message",
+    "sending": "Sending...",
+    "validation": {
+      "name_min": "Please, enter your name.",
+      "email_invalid": "Please, use a valid email.",
+      "subject_min": "Please, enter the subject.",
+      "message_min": "Please, enter the message."
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
